@@ -23,7 +23,7 @@ There is only 1 notebook (so far :D ) in this repository which is used to solve 
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [https://medium.com/@youssefsherief/conquer-the-youtube-algorithm-4f27d09c7641] 
+The main findings of the code can be found at the post available [here](https://medium.com/@youssefsherief/conquer-the-youtube-algorithm-4f27d09c7641)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 I have to give credit to Kaggle for the data set used in this analysis. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset). Thanks to the Udacity data science team for their support throughout this course so far. 
